@@ -169,3 +169,7 @@ a:link, a:visited {
   background-color: transparent;
   text-decoration: none;
 }
+
+.hiddenLogo {
+  content: hidden;
+}
