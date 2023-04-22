@@ -43,24 +43,24 @@ body {
   
   /* Facebook */
   .fa-facebook {
-    background: #3B5998;
-    color: white;
+    background: #3B5998 !important;
+    color: white !important;
   }
   
   /* Twitter */
   .fa-instagram {
-    background: #fb0074;
-    color: white;
+    background: #fb0074 !important;
+    color: white !important;
   }
 
   .fa-linkedin {
-    background: #0073b2;
-    color: white;
+    background: #0073b2 !important;
+    color: white !important;
   }
 
   .fa-youtube {
-    background: #df2a25;
-    color: white;
+    background: #df2a25 !important;
+    color: white !important;
   }
 
   .colDesc {
