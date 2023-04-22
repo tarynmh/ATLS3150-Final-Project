@@ -159,3 +159,7 @@ body {
 .paragraphText {
   font-size: 22px;
 }
+
+.footerLink {
+  color: #1f1f1f !important;
+}
