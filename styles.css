@@ -124,7 +124,7 @@ body {
 }
 
 .donateText {
-  color: #45B29D;
+  color: #13806a;
   font-weight: 800;
   font-size: 50px;
 }
@@ -162,4 +162,10 @@ body {
 
 .footerLink {
   color: #1f1f1f !important;
+}
+
+a:link, a:visited {
+  color: rgb(9, 54, 71);
+  background-color: transparent;
+  text-decoration: none;
 }
