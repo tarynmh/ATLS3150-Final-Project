@@ -122,3 +122,40 @@ body {
 .carousel-inner .carousel-item-start { 
   transform: translateX(0);
 }
+
+.donateText {
+  color: #45B29D;
+  font-weight: 800;
+  font-size: 50px;
+}
+
+.donateParagraph {
+  font-size: 22px;
+}
+
+.btn-donate {
+  background-color: #254151;
+  color: white;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-size: 20px;
+}
+
+.btn-donate:hover, .btn-donate:focus, .btn-donate:active, .btn-donate.active, .open>.dropdown-toggle.btn-donate {
+  color: white;
+  background-color: #5e859c;
+}
+
+body {
+  background-color: #EAEAE8 !important;
+}
+
+.bg-body {
+  background-color: #EAEAE8 !important;
+}
+
+.paragraphText {
+  font-size: 22px;
+}
