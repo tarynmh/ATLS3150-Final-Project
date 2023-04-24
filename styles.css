@@ -7,6 +7,10 @@ body {
     margin-right: '5%';
 }
 
+.quote {
+  font-size: 26px;
+}
+
 .navbar-nav > li{
     margin-left:10px;
     margin-right:10px;
